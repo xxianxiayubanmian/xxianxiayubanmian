@@ -1,4 +1,4 @@
-# ming
+# Misaki
 
 Arch Linux / niri desktop workflow, with projects around system tooling, firmware analysis, and web experiments.
 
