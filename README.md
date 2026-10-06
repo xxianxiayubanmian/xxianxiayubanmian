@@ -11,6 +11,7 @@ Arch Linux / niri desktop workflow, with projects around system tooling, firmwar
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xxianxiayubanmian&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xxianxiayubanmian&layout=compact&langs_count=8&hide_border=true&theme=transparent)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=xxianxiayubanmian&show_icons=true&include_all_commits=true&theme=radical" height="165" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxianxiayubanmian&layout=compact&langs_count=8&theme=radical" height="165" alt="Top languages">
+</p>
